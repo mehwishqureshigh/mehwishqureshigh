@@ -2,7 +2,6 @@
 <h1 align="center">Hi , I'm Mehwish Qureshi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-
 - 🔭 I’m currently working on **Application Development**
 
 - 🌱 I’m currently learning **Flutter**
